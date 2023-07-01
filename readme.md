@@ -23,7 +23,7 @@ Customer Buyer Information Report: This report provides information about custom
 Usage
 To use this project, you will need to have Power BI installed on your computer. Once you have Power BI installed, you can open the apocalypse_store_data_analysis.pbix file in Power BI.
 DASHBOARD:
-
+![unknown_2023 07 01-11 30](https://github.com/Vaishnavi-b12/Apocolypse-store-dataset/assets/131941299/660aa162-8949-4b2f-861d-78ae0b146a6d)
 
 Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request.
